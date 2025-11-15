@@ -39,6 +39,8 @@ uuid生成器【点击生成】
 
 注册Railway【点击注册】（必须使用纯净IP）
 
+原文链接：https://taogpt.blogspot.com/2025/11/ip.html
+
 显示这行绿色提示，证明注册成功，显示黄色即失败。
 （30天5美金额度，到期后可以删除原账号，重新注册即可）
 点击Account Settings点击Delete Account即可删除账号
